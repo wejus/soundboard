@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "67861F3DD59EF63878211EC246CF8D2364B96DF5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "91C1794460ABEAE2E0E5F6861533FE1E37491D1C" : 9223372036854775807,
+    "67861F3DD59EF63878211EC246CF8D2364B96DF5" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AEE93354-D57C-4DF6-BC0A-026FB00DA85D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "91C1794460ABEAE2E0E5F6861533FE1E37491D1C" : "",
+    "67861F3DD59EF63878211EC246CF8D2364B96DF5" : "DoIt\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SoundBoard",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SoundBoard\/SoundBoard.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wejus\/DoIt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67861F3DD59EF63878211EC246CF8D2364B96DF5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wejus\/Learning-XCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91C1794460ABEAE2E0E5F6861533FE1E37491D1C"
+    }
+  ]
+}
